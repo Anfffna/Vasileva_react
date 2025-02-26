@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "i18next": "^24.2.2",
+    "react-i18next": "^15.4.1",
+    "react-redux": "^9.2.0",
+    "redux": "^5.0.1",
+    "use-immer": "^0.11.0"
+  }
+}
