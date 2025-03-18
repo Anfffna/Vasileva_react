@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 const Text = () => {
     const [editMode, setEditMode] = useState(false);
@@ -7,7 +7,7 @@ const Text = () => {
     const [position, setPosition] = useState({ x: 0, y: 0 });
     const [offset, setOffset] = useState({ x: 0, y: 0 });
 
-    const handleMouseDown = (e) => {
+    const handleMouseDown = (e: any) => {
         setIsDragging(true);
         setOffset({
             x: e.clientX - position.x,
@@ -15,7 +15,7 @@ const Text = () => {
         });
     };
 
-    const handleMouseMove = (e) => {
+    const handleMouseMove = (e: any) => {
         if (isDragging) {
             setPosition({
                 x: e.clientX - offset.x,
