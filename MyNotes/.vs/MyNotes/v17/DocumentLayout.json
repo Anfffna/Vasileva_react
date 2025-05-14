@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\mynotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB2FDE82-8204-4D86-90BF-FF467C7FE6B0}|docker-compose.dcproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB2FDE82-8204-4D86-90BF-FF467C7FE6B0}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\mynotes\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\mynotes\\mynotes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\mynotes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\mynotes\\mynotes.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\mynotes.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\mynotes\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\mynotes\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\mynotes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\mynotes\\dataaccess\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\dataaccess\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\mynotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\mynotes\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\mynotes\\contract\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\contract\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\mynotes\\contract\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\contract\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\mynotes\\contract\\getnotesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\contract\\getnotesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\mynotes\\contract\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\contract\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|c:\\users\\pokemon\u0027s\\documents\\github\\vasileva_react\\mynotes\\mynotes\\mynotes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E132947F-5A67-4307-98AB-71DFBB391699}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\mynotes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +70,194 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "docker-compose",
+              "DocumentMoniker": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-24T14:13:20.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyNotes.http",
+              "DocumentMoniker": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\MyNotes.http",
+              "RelativeDocumentMoniker": "MyNotes\\MyNotes.http",
+              "ToolTip": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\MyNotes.http",
+              "RelativeToolTip": "MyNotes\\MyNotes.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-23T22:35:30.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Dockerfile",
+              "RelativeDocumentMoniker": "MyNotes\\Dockerfile",
+              "ToolTip": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Dockerfile",
+              "RelativeToolTip": "MyNotes\\Dockerfile",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-23T22:43:45.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MyNotes\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\WeatherForecast.cs",
+              "RelativeToolTip": "MyNotes\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:36:57.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "MyNotes\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwD4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:35:59.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\DataAccess\\NotesDbContext.cs",
+              "RelativeDocumentMoniker": "MyNotes\\DataAccess\\NotesDbContext.cs",
+              "ToolTip": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\DataAccess\\NotesDbContext.cs",
+              "RelativeToolTip": "MyNotes\\DataAccess\\NotesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:31:21.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Models\\Note.cs",
+              "RelativeToolTip": "MyNotes\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:20:45.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Program.cs",
               "RelativeDocumentMoniker": "MyNotes\\Program.cs",
               "ToolTip": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Program.cs",
               "RelativeToolTip": "MyNotes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T00:06:17.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T00:06:17.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MyNotes.csproj",
               "DocumentMoniker": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\MyNotes.csproj",
               "RelativeDocumentMoniker": "MyNotes\\MyNotes.csproj",
               "ToolTip": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\MyNotes.csproj",
               "RelativeToolTip": "MyNotes\\MyNotes.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-26T23:59:08.213Z"
+              "WhenOpened": "2025-03-26T23:59:08.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetNotesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Contract\\GetNotesResponse.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Contract\\GetNotesResponse.cs",
+              "ToolTip": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Contract\\GetNotesResponse.cs",
+              "RelativeToolTip": "MyNotes\\Contract\\GetNotesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:19:01.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Contract\\NoteDto.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Contract\\NoteDto.cs",
+              "ToolTip": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Contract\\NoteDto.cs",
+              "RelativeToolTip": "MyNotes\\Contract\\NoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:20:07.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyNotes\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\appsettings.Development.json",
+              "RelativeToolTip": "MyNotes\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T15:15:03.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetNotesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Contract\\GetNotesRequest.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Contract\\GetNotesRequest.cs",
+              "ToolTip": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Contract\\GetNotesRequest.cs",
+              "RelativeToolTip": "MyNotes\\Contract\\GetNotesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:17:58.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateNoteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Contract\\CreateNoteRequest.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Contract\\CreateNoteRequest.cs",
+              "ToolTip": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\Contract\\CreateNoteRequest.cs",
+              "RelativeToolTip": "MyNotes\\Contract\\CreateNoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:10:47.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyNotes",
+              "DocumentMoniker": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\MyNotes.csproj",
+              "RelativeDocumentMoniker": "MyNotes\\MyNotes.csproj",
+              "ToolTip": "C:\\Users\\Pokemon\u0027s\\Documents\\GitHub\\Vasileva_react\\MyNotes\\MyNotes\\MyNotes.csproj",
+              "RelativeToolTip": "MyNotes\\MyNotes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T17:59:56.451Z",
+              "EditorCaption": ""
             }
           ]
         }

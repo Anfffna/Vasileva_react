@@ -1,0 +1,6 @@
+services:
+  mynotes:
+    image: ${DOCKER_REGISTRY-}mynotes
+    build:
+      context: .
+      dockerfile: MyNotes/Dockerfile
